@@ -49,7 +49,7 @@ public class Teladelogin extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Microsoft YaHei", 0, 18)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(0, 51, 255));
-        jLabel1.setText("Shopping Manager");
+        jLabel1.setText("Shopping GGamer");
 
         jLabel2.setFont(new java.awt.Font("Trebuchet MS", 0, 10)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(51, 51, 51));
@@ -82,8 +82,6 @@ public class Teladelogin extends javax.swing.JFrame {
         jLabel6.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jLabel6.setForeground(new java.awt.Color(255, 255, 255));
         jLabel6.setText("SENHA");
-
-        jPasswordField1.setText("jPasswordField1");
 
         jLabel7.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jLabel7.setForeground(new java.awt.Color(255, 255, 255));
